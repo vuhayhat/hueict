@@ -95,4 +95,4 @@ This landing page is designed for a service that uses AI to analyze facial expre
 
 ## License
 
-MIT 
+MIT
